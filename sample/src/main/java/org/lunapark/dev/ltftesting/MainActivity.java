@@ -1,4 +1,4 @@
-package org.lunapark.dev.ltftest;
+package org.lunapark.dev.ltftesting;
 
 import android.app.Activity;
 import android.os.Bundle;
