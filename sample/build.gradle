@@ -1,9 +1,10 @@
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 15
     buildToolsVersion "25.0.2"
     defaultConfig {
+        applicationId "org.lunapark.dev.ltftest"
         minSdkVersion 15
         targetSdkVersion 15
         versionCode 1
